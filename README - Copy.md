@@ -178,3 +178,10 @@ This project is open-source and intended for **educational purposes only**.
 ---
 
 > If you found this project useful, feel free to ⭐ the repository!
+
+## Environments
+uv venv hvenv
+hvenv\Scripts\activate
+uv pip install -r requirements.txt
+streamlit run app.py
+
